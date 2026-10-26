@@ -1,0 +1,26 @@
+Combination,Restaurants
+Chinese + North Indian,616
+Mughlai + North Indian,395
+Chinese + Mughlai + North Indian,306
+Bakery + Desserts,182
+Chinese + Fast Food,159
+Fast Food + Pizza,142
+Chinese + North Indian + South Indian,137
+Mithai + Street Food,134
+Fast Food + North Indian,120
+Bakery + Fast Food,117
+Desserts + Ice Cream,109
+Chinese + Continental + North Indian,107
+Chinese + Fast Food + North Indian,102
+Burger + Fast Food,99
+Bakery + Desserts + Fast Food,69
+American + Fast Food + Healthy Food + Salad,63
+Beverages + Fast Food,59
+Fast Food + North Indian + Raw Meats,57
+Chinese + Thai,54
+North Indian + South Indian,54
+Chinese + South Indian,45
+Fast Food + Raw Meats,45
+Italian + Pizza,43
+Fast Food + Italian + Pizza,41
+Continental + North Indian,41

@@ -1,0 +1,26 @@
+Combination,avg_rating,rated_restaurants,vs_overall
+Italian + Pizza,3.738,42,0.299
+Chinese + Continental + Italian + North Indian,3.605,37,0.166
+Continental + North Indian,3.576,38,0.137
+Chinese + Thai,3.514,51,0.074
+Bakery + Desserts + Fast Food,3.473,66,0.033
+Burger + Fast Food,3.441,95,0.002
+Desserts + Ice Cream,3.435,92,-0.005
+Bakery + Desserts,3.41,127,-0.029
+Chinese + Continental + North Indian,3.408,95,-0.031
+Beverages + Fast Food,3.295,42,-0.144
+Mughlai + North Indian,3.284,332,-0.155
+Bakery + Fast Food,3.281,86,-0.158
+Fast Food + North Indian,3.204,90,-0.235
+Mithai + Street Food,3.148,81,-0.291
+Chinese + North Indian + South Indian,3.145,97,-0.294
+Fast Food + North Indian + Raw Meats,3.113,48,-0.327
+Chinese + North Indian,3.111,462,-0.328
+Fast Food + Italian + Pizza,3.108,39,-0.332
+Chinese + Mughlai + North Indian,3.107,258,-0.332
+Chinese + Fast Food + North Indian,3.095,87,-0.344
+North Indian + South Indian,3.089,36,-0.351
+Chinese + Fast Food,3.076,107,-0.364
+Chinese + South Indian,3.033,33,-0.406
+Fast Food + Pizza,3.031,121,-0.409
+American + Fast Food + Healthy Food + Salad,3.003,61,-0.436
